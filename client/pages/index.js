@@ -4,9 +4,11 @@ const Index = () => (
   <Page>
     <Layout>
       <p>Sample app using React and Next.js</p>
-      <TextStyle variation="positive">
-        Sample app using React and Next.js
-      </TextStyle>
+      <div>
+        <TextStyle variation="positive">
+          Sample app using React and Next.js2
+        </TextStyle>
+      </div>
     </Layout>
   </Page>
 );
