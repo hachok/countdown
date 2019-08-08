@@ -1,4 +1,5 @@
 import { Layout, Page } from "@shopify/polaris";
+import App from "../client/components/App/App";
 
 const Index = () => (
   <Page>
