@@ -1,3 +1,4 @@
+import React from "react";
 import { Card, Layout, Page, ResourceList, Avatar, TextStyle } from "@shopify/polaris";
 
 const Pricing = () => (
