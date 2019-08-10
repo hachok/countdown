@@ -19,6 +19,7 @@ config/tunnel.pid
 
 # next build output
 .next/
+out
 
 #shopify cli
 .shopify-cli.yml
