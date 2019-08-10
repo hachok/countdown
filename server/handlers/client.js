@@ -1,4 +1,5 @@
 import ApolloClient from "apollo-boost";
+import 'cross-fetch/polyfill';
 
 export const createClient = (shop, accessToken) => {
   return new ApolloClient({

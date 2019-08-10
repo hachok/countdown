@@ -39,6 +39,7 @@
     "@shopify/polaris": "^3.16.0",
     "@zeit/next-css": "^1.0.1",
     "apollo-boost": "^0.4.3",
+    "cross-fetch": "^3.0.4",
     "dotenv": "^7.0.0",
     "graphql": "^14.2.1",
     "isomorphic-fetch": "^2.1.1",

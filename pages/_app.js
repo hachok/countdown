@@ -5,6 +5,7 @@ import { AppProvider } from "@shopify/polaris";
 import { Provider } from "@shopify/app-bridge-react";
 import Cookies from "js-cookie";
 import "@shopify/polaris/styles.css";
+import 'cross-fetch/polyfill';
 
 const client = new ApolloClient({
   fetchOptions: {
